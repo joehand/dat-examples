@@ -1,0 +1,20 @@
+{
+  "name": "dat-examples-cli-link",
+  "version": "1.0.0",
+  "description": "Share folder via Dat",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joe Hand <joe@joeahand.com> (http://joeahand.com/)",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "datland-swarm-defaults": "^1.0.0",
+    "discovery-swarm": "^3.1.2",
+    "folder-walker": "^2.1.1",
+    "hyperdrive": "^3.5.1",
+    "level": "^1.4.0",
+    "stream-each": "^1.1.2"
+  },
+  "devDependencies": {}
+}
