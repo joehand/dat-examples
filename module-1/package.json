@@ -1,0 +1,13 @@
+{
+  "name": "module_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "hyperdrive": "^7.1.0",
+    "hyperdrive-archive-swarm": "^4.0.0",
+    "memdb": "^1.3.1"
+  }
+}
